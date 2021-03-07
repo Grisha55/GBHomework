@@ -1,1 +1,2 @@
-repo-GBHomework
+Homework of the third lesson
+
